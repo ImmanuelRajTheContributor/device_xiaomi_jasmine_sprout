@@ -41,7 +41,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 TARGET_SCREEN_DENSITY := 480
 
 # Device identifier
-PRODUCT_BRAND := xiaomi
+PRODUCT_BRAND := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := carbon_jasmine_sprout
 PRODUCT_DEVICE := jasmine_sprout
